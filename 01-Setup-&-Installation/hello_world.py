@@ -1,7 +1,4 @@
+print("sambowden here")
 print("hello, world!")
-print("hello, world!")
-print("hello, world!")
-print("hello, world!")
-print("hello, world! 2223")
-print("hello, world!")
-print("hello, world!")print("hello, world!")
+print("")
+
